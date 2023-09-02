@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Practice Code"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Python"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "CSS"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "ChatGPT"
+    }
+  ]
+}
